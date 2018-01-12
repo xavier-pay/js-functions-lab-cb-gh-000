@@ -4,7 +4,7 @@
     return "Happy holidays!"
   }
 
-funtion happyHolidaysTo(name){
+funcion happyHolidaysTo(name){
   return "Happy holidays, ${name}!"
 }
 
